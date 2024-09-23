@@ -11,7 +11,7 @@ BOOK IT is a digital hall booking system developed using the Vite MERN stack in 
 
 ## Technologies Used
 
-- **Frontend**: Vite +  React.js , HTML, CSS 
+- **Frontend**: Vite +  React.js , HTML, CSS. 
 - **Backend**: Express.js, Node.js, MongoDB (atlas)
 - **Other**: JWT for authentication, Nodemailer for mailing service , Node-schedule for scheduling tasks
 
