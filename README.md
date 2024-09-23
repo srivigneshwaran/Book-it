@@ -75,6 +75,8 @@ This project is licensed under the MIT License.
 
 ## Authors
 
+ **Sri Vigneshwaran**
+ 
  **Kathir Karthik M**
  🤝
  **Mouniesh V** 
